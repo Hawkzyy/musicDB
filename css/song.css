@@ -1,0 +1,50 @@
+p {
+  color: white;
+  font-size: 30pt;
+  font-family: 'Audiowide', cursive;
+}
+
+h1 {
+  text-align: left;
+  color: #ff3232;
+}
+
+main {
+  font-family: 'Audiowide', cursive;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #efefef;
+  height: auto;
+}
+
+
+.album_art {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  float: right;
+}
+
+
+.btn-danger {
+  margin-top: 10px;
+  float: right;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+em {
+  color: #0084b4;
+}
+
+hr {
+  border-color: #0084b4;
+}
